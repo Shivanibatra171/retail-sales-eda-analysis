@@ -67,3 +67,15 @@ This project includes the following charts (available in the `/screenshots` fold
 ---
 
 ## 📁 Repository Structure
+
+retail-sales-eda-analysis/
+
+├── EDA_Retail_Sales.ipynb        # Complete Jupyter Notebook with code & analysis
+
+├── retail_sales_dataset.csv      # Cleaned dataset
+
+├── EDA_Report.pdf                # Full analysis report
+
+├── screenshots/                  # Chart images
+
+└── README.md                     # Project documentation
